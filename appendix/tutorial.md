@@ -18,7 +18,6 @@
 * [Kubernetes Learning Path - 50 days from zero to hero with Kubernetes](http://aka.ms/learnkubernetes)
 * [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [AWS Workshop for Kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes)
-* [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
 * [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html)
 * [Kubernetes Certified Administration \(CKA\) online resources](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
 * [Kubernetes By Example](http://kubernetesbyexample.com)
@@ -26,6 +25,7 @@
 * [Kubernetes Best Practices](https://github.com/Azure/k8s-best-practices)
 * [The Azure Kubernetes Workshop](https://aksworkshop.io/)
 * [70 Best Kubernetes Tutorials](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials)
+* [15 Kubernetes Best Practices Every Developer Should Know](https://spacelift.io/blog/kubernetes-best-practices)
 
 ## 电子书籍
 
